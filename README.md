@@ -30,3 +30,11 @@ Tinkercad share URLs from the presentation were excluded because they contain sh
 
 - Adam El Akkaoui
 - Mountassir Ikradine
+
+## Academic artefacts
+
+- [French presentation (PPTX, sharing links sanitized)](presentations/mobile-robot-presentation-fr.pptx). The nearby PDF is a third-party thesis and is excluded; no student-authored report or video was found.
+
+## Testing and limitations
+
+The source reads two potentiometers, maps one to two DC-motor PWM outputs and the other to a servo angle, and emits serial values. Arduino CLI/Tinkercad execution and physical tests were unavailable. This documents potentiometer control and simulation evidence only; it does not claim autonomous sensing, planning, navigation or physical validation.
