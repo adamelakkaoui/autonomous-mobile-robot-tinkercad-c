@@ -1,5 +1,7 @@
 # Autonomous Mobile Robot (TinkerCad, C)
 
+![EMBEDDED SYSTEMS — Potentiometer-controlled Arduino simulation](assets/portfolio-banner.svg)
+
 Academic Arduino/Tinkercad mobile-robot prototype. The CV title is retained exactly; the verified implementation is controlled by potentiometers and does **not** provide autonomous navigation.
 
 ![Tinkercad circuit used by the project](images/tinkercad-circuit.png)
