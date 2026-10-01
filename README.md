@@ -18,14 +18,14 @@ The Arduino program reads two potentiometers: one controls the speed of two DC m
 
 ## Repository contents
 
-- `src/mobile_robot.ino` — submitted Arduino code.
-- `images/tinkercad-circuit.png` — original circuit screenshot.
-- [French project presentation (PPTX, sharing hyperlinks sanitized)](presentations/mobile-robot-presentation-fr.pptx).
+- `src/mobile_robot.ino` — Arduino code used in the project.
+- `images/tinkercad-circuit.png` — Tinkercad circuit screenshot.
+- [French project presentation (PPTX)](presentations/mobile-robot-presentation-fr.pptx).
 
 
 ## Requirements and use
 
-Open `src/mobile_robot.ino` in the Arduino IDE, select a compatible board, reproduce the wiring shown in the screenshot, compile, and upload. The only code dependency is Arduino's standard `Servo` library. The presentation's private Tinkercad sharing links were removed from the public copy; use the screenshot to reconstruct the circuit in a new simulation.
+Open `src/mobile_robot.ino` in the Arduino IDE, use the circuit shown in the project screenshot, and run the project with Arduino's standard `Servo` library.
 
 ## Project demonstration
 
