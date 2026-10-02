@@ -1,7 +1,5 @@
 # Autonomous Mobile Robot (TinkerCad, C)
 
-![EMBEDDED SYSTEMS — Potentiometer-controlled Arduino simulation](assets/portfolio-banner.svg)
-
 Academic FAB-LAB mobile-robot project developed with Arduino C and simulated in Tinkercad.
 
 ![Tinkercad circuit used by the project](images/tinkercad-circuit.png)
@@ -22,7 +20,6 @@ The Arduino program reads two potentiometers: one controls the speed of two DC m
 - `images/tinkercad-circuit.png` — Tinkercad circuit screenshot.
 - [French project presentation (PPTX)](presentations/mobile-robot-presentation-fr.pptx).
 
-
 ## Requirements and use
 
 Open `src/mobile_robot.ino` in the Arduino IDE, use the circuit shown in the project screenshot, and run the project with Arduino's standard `Servo` library.
@@ -30,7 +27,6 @@ Open `src/mobile_robot.ino` in the Arduino IDE, use the circuit shown in the pro
 ## Project demonstration
 
 The repository includes the Arduino source code, the original Tinkercad circuit screenshot and the French project presentation. Together they document the electronic connections, motor/servo control and the simulated mobile-robot prototype.
-
 
 ## Authors
 
