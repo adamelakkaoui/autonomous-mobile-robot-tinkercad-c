@@ -1,5 +1,8 @@
 # Autonomous Mobile Robot (TinkerCad, C)
 
+![EMBEDDED SYSTEMS — Autonomous mobile robot](assets/portfolio-banner.svg)
+
+
 Academic FAB-LAB mobile-robot project developed with Arduino C and simulated in Tinkercad.
 
 ![Tinkercad circuit used by the project](images/tinkercad-circuit.png)
